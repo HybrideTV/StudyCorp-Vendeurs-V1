@@ -1,0 +1,68 @@
+#durba_list #durba_titre {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 400px;
+    color: white;
+}
+#durba_list #durba_content img {
+    width:20px;
+    height:20px;margin-right:3px;
+}
+#durba_list #durba_content {
+    padding: 10px;
+    border: 5px solid black;
+    overflow: auto;
+    height:350px;
+    background: #ece4e4e3;
+    margin-top: 20px;
+}
+#durba_list #durba_content a {color:black; text-decoration:none;}
+#durba_list #durba_content a:hover {color:#ece4e4e3; text-decoration:underline;}
+#durba_list {
+    width: 20%;
+    padding: 20px;
+    float:left;
+    
+}
+
+#durba_contenu #durba_titre {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    
+}
+#durba_contenu #durba_page {
+    padding: 10px;
+    width:690px;
+    overflow: auto;
+    height:400px;
+    border: 5px solid black;
+    background: #ece4e4e3;
+    margin-top: 10px;
+}
+#durba_contenu {
+    width: 20%;
+    padding: 20px;
+    float:left;
+    margin-top: 400px;
+}
+
+#principal_titre{
+    color: white;
+    font-weight: bold;
+    font-size: 28px;
+    position: relative;
+    top: 18px;
+    left: 80
+}
+
+#info_compte{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 68px;
+    left: 80
+}
